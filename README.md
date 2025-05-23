@@ -5,14 +5,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Florencia! </h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm <b>Florencia!</b> </h1></summary>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block"><b><i>the only thing that is impossible is what you don't try</i></b></h2></summary>
   </ul>
 </div>
 
